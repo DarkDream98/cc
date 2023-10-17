@@ -19,10 +19,10 @@
     3. apt install git
     4. apt install python3-pip
     5. apt install python2 && apt install python3
-    6. git clone https://github.com/MrSanZz/pandora
-    7. cd pandora
+    6. git clone https://github.com/DarkDream98/cc.git
+    7. cd cc
     8. pip3 install -r requirements.txt
-    9. python3 pandora.py
+    9. python3 cc.py
     10. If the tool has an error in the module, try typing python3 setup.py
 
     Linux:
@@ -32,10 +32,10 @@
     3. apt install pip / pip3
     4. apt install python3
     5. apt install git
-    6. git clone https://github.com/MrSanZz/pandora
-    7. cd pandora
+    6. git clone https://github.com/DarkDream98/cc.git
+    7. cd cc
     8. pip3 install -r requirements.txt
-    9. python3 pandora.py
+    9. python3 cc.py
     10. If the tool has an error in the module, try typing python3 setup.py
 
     Termux:
@@ -44,10 +44,10 @@
     3. pkg install python3
     4. pkg install git
     5. pkg install figlet
-    6. git clone https://github.com/MrSanZz/pandora
-    7. cd pandora
+    6. git clone https://github.com/DarkDream98/cc.git
+    7. cd cc
     8. pip3 install -r requirements.txt
-    9. python3 pandora.py
+    9. python3 cc.py
     10. If the tool has an error in the module, try typing python3 setup.py
 ```
 <span>Thanks For : EternightyIHT</span>
